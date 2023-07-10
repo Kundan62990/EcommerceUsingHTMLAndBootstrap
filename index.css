@@ -1,0 +1,10 @@
+.card:hover {
+  box-shadow: 0 2px 8px black ;
+  border: 2px solid rgb(166, 52, 237);
+ } 
+
+ .card-banner:hover{
+  box-shadow: 0 2px 18px black ;
+ }
+
+
